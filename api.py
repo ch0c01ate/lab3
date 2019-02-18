@@ -9,5 +9,5 @@ def get_api():
     return tweepy.API(auth)
 
 
-def get_user(api, nickname):
+def get_the_user(api, nickname):
     return api.get_user(nickname)
