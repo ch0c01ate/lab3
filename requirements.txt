@@ -1,0 +1,4 @@
+flask==1.0.2
+geocoder==1.38.1
+folium==0.7.0
+tweepy==3.7.0
